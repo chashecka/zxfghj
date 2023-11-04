@@ -1,0 +1,77 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+header {
+    background-image: url(https://media.architecturaldigest.com/photos/55e79123cd709ad62e900c5d/master/w_1600%2Cc_limit/dam-images-travel-nyc-hair-salons-nyc-hair-salons-01-wonderland-beauty-parlor.jpg);
+    opacity: 0.2;
+}
+
+.d {
+    text-align: center;
+    padding-top: 110px;
+    padding-bottom: 110px;
+    color: blanchedalmond;
+}
+
+.s {
+    color: blanchedalmond;
+    padding-left: 200px;
+    position: absolute;
+    top:110px;
+    left: 200px;
+}
+
+img {
+    width: 250px;
+    border-radius: 20px;
+}
+
+.w {
+    width: 260px;
+    height: 165px;
+    border-radius: 20px;
+    position: absolute;
+    left: 700px;
+    top: 304px;
+}
+
+p {
+    color: blanchedalmond;
+}
+
+.h {
+    position: absolute;
+    left: 780px;
+    top: 460px;
+}
+
+.m {
+    position: absolute;
+    left: 50px;
+    top: 460px;
+}
+
+.r{
+    position: absolute;
+    top: 660px;
+    left: 50px;
+}
+
+.t{
+    position: absolute;
+    top: 500px;
+}
+
+.f{
+    position: absolute;
+    left: 700px;
+    top: 500px;
+}
+
+.p{
+    position: absolute;
+    top: 660px;
+    left: 750px;
+}
